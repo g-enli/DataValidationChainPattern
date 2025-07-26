@@ -23,4 +23,5 @@ curl -X POST http://localhost:8080/api/register \
 **Çıktı:** "Kayıt başarısız: Geçersiz email formatı"
 
 ### Terminal Çıktısı
+<img width="1600" height="795" alt="image" src="https://github.com/user-attachments/assets/3e4204b4-b124-45e5-8233-dd324baf60e8" />
 
